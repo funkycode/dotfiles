@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="22"
+   height="22"
+   id="svg3215"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="indicator-template.svg"
+   style="display:inline">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="950"
+     id="namedview10"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="36.865204"
+     inkscape:cx="11.4375"
+     inkscape:cy="10.96875"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     inkscape:snap-to-guides="true"
+     inkscape:object-paths="true">
+    <sodipodi:guide
+       orientation="1,0"
+       position="3,25"
+       id="guide3058" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="19,30.945173"
+       id="guide3060" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="10.204143,19"
+       id="guide3062" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="-3.0501514,3"
+       id="guide3064" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="5.5248129,12.559443"
+       id="guide4049" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="4.5406357,11.564082"
+       id="guide4051" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="18.811205,9.6180953"
+       id="guide4053" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="18.553977,8.6227343"
+       id="guide4055" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="4,11.564082"
+       id="guide4133" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="18,14.826565"
+       id="guide4135" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3217" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene"
+     style="display:inline">
+    <rect
+       style="display:inline;opacity:0.59999999999999998;fill:none;stroke:#eae3d0;stroke-opacity:1"
+       id="rect3951-0"
+       width="17"
+       height="17"
+       x="2.5043495"
+       y="2.5000007"
+       rx="2"
+       ry="2" />
+    <path
+       style="fill:#3a3935;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 4,10.435918 0,-0.995361 -1,0 0,0.995361 0.00435,7.064083 c 5.17e-4,0.839648 0.660352,1.5 1.5,1.5 l 13,0 c 0.839649,0 1.592999,-0.665517 1.5,-1.5 L 19.000121,13.617179 19,12.381905 l -1,0 0,0.995361 -2.37541,0.01068 L 13.612765,8.6426049 12.132729,12.607899 10.426973,8.6379479 7.8638975,16.230081 5.9042442,10.435918 m 0.703368,-0.9854741 1.2568603,3.6250001 2.4351235,-7.2426852 1.792001,4.1252956 1.452007,-4.0780852 2.706174,6.5019358 2.750222,0 L 19.004349,4.5 c 4.63e-4,-0.8396488 -0.660351,-1.5 -1.5,-1.5 l -13,0 c -0.839648,0 -1.4992609,0.6603513 -1.5,1.5 L 3,9.440557"
+       id="rect3178-9-0-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccsssscccccccccccccccccssssc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Ebene#1"
+     style="display:inline">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.6;color:#000000;fill:#eae3d0;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 10.301973,5.8254442 -0.4062505,1.25 -2.03125,5.9999998 -1.125,-3.2812501 -0.09375,-0.34375 -0.375,0 L 4,9.440557 l 0,0.995361 1.9269725,0.01453 1.4375,4.375 0.5,1.40625 0.46875,-1.40625 2.0937505,-6.1875001 1.21875,2.8437501 0.5,1.15625 0.4375,-1.1875 1.03125,-2.8125001 1.8125,4.4375001 0.15625,0.3125 0.3125,0 L 18,13.377266 l 0,-0.995361 -1.760527,0.006 -2.21875,-5.3437498 -0.46875,-1.1875 -0.4375,1.21875 -1.03125,2.9062497 -1.25,-2.9374997 z"
+       id="path5012-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
