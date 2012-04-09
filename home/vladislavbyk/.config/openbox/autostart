@@ -1,0 +1,11 @@
+lxsession &
+xfce4-power-manager &
+thunar --daemon &
+nitrogen --restore &
+tint2 &
+conky &
+(sleep 4s && nm-applet) &
+xscreensaver -no-splash &
+cb-bad-nautilus &
+cb-cowpowers &
+(sleep 5s && startnp) &

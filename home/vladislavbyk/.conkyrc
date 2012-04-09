@@ -1,0 +1,44 @@
+### conky configuration file by vladislavbyk ###
+
+alignment top_left
+background yes
+border_margin 5
+border_width 5
+cpu_avg_samples 2
+default_color ffffff
+default_outline_color 000000
+default_shade_color 000000
+double_buffer yes
+draw_borders no
+draw_graph_borders no
+draw_outline no
+draw_shades no
+gap_x 20
+gap_y 40
+max_specials 1024
+max_user_text 10000
+maximum_width 900
+minimum_size 350
+net_avg_samples 2
+no_buffers yes
+override_utf8_locale yes
+own_window yes
+own_window_colour 000000
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_transparent yes
+own_window_type normal 
+pad_percents 2			
+short_units yes	
+stippled_borders 3
+text_buffer_size 8000
+total_run_times 0
+update_interval 2.0
+uppercase no
+use_spacer right
+use_xft yes
+xftalpha 1
+xftfont Freesans:pixelsize=9
+
+TEXT
+${color white}${font ZegoeLight-U:pixelsize=40}${time %A}${font} 
+${goto 12}${color white}${font ZegoeLight-U:pixelsize=15}${time %B %d, %Y}${font}	
