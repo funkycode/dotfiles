@@ -1,7 +1,7 @@
-	#tint2 config file
-	#vladislavbyk <vladislavbyk1@gmail.com>
+#tint2 config file
+#vladislavbyk <vladislavbyk1@gmail.com>
 
-    # ID 1
+   # ID 1
     rounded = 0
     border_width = 0
     background_color = #000000 100
