@@ -1,5 +1,11 @@
 ### zsh configuration file by vladislavbyk ###
 
+### Tmux ### 
+#alias tmux="tmux -2 -u" #---uncomment if you use tmux
+#if [ $TERM != "screen-256color" ] && [  $TERM != "screen" ]; then #---uncomment if you use tmux
+#    tmux attach -t work || ~/bin/tmux_work.sh; exit #---uncomment if you use tmux
+#fi #---uncomment if you use tmux
+
 ### Load zsh modules ###
 autoload -Uz compinit zcalc zsh-mime-setup colors
 compinit
@@ -160,12 +166,6 @@ echo "'$1' is not a valid file"
 
 ### IP ###
 myip() {lynx --source http://www.formyip.com/ |grep The | awk {'print $5'}}
-
-### Tmux ###
-alias tmux="tmux -2 -u"
-if [ $TERM != "screen-256color" ] && [  $TERM != "screen" ]; then
-    tmux attach -t work || ~/bin/tmux_work.sh; exit
-fi
 
 ### History ###
 HISTFILE=~/.histfile
