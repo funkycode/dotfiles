@@ -13,7 +13,7 @@ autoload -U promptinit
 promptinit
 
 ### Options ###
-export DEBEMAIL=vladislabyk1@gmail.com #---change this to your email if you need this---
+export DEBEMAIL=example@service.com #---change this to your email if you need this---
 bindkey -e
 setopt PUSHD_MINUS
 setopt NO_HUP
